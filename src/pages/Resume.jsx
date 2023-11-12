@@ -1,21 +1,34 @@
 export default function Resume() {
     return (
         <div>
-          {/* <h1>Resume</h1> */}
+
     
           <section>
-            <h2>Education</h2>
+          <h1 style={{ color: '#ccc' }}>Education</h1>
             <div>
-              <h3>Funen Art Academy, Odense, Denmark</h3>
+              <h3>University of Texas</h3>
+              <p>Fullstack Coding Bootcamp</p>
+              <ul>
+            <li>Computer Science applied to JavaScript</li>
+            <li>Browser-Based Technologies (HTML, CSS, JavaScript, jQuery)</li>
+            <li>Deployment (Heroku, Git)</li>
+            <li>Databases (MySQL, MongoDB)</li>
+            <li>Server Side Development (Node.js, Express, MERN Stack)</li>
+          </ul>
+
+              <p>2023</p>
+            </div>
+            <div>
+              <h3>Funen Art Academy</h3>
+              <p>Odense, Denmark</p>
               <p>MFA</p>
               <p>Painting</p>
-              <p>Graduation Year: 2017</p>
+              <p>2017</p>
             </div>
-            {/* Add more education entries if needed */}
           </section>
     
           <section>
-            <h2>Experience</h2>
+          <h1 style={{ color: '#ccc' }}>Experience</h1>
             <div>
               <h3>Judd Foundation</h3>
               <p>Artist/Guide</p>
