@@ -32,7 +32,7 @@ const Portfolio = () => {
 
          {/* Project 4 */}
          <ProjectCard
-          title="Project 4"
+          title="Project 4, group project"
           imageSrc="./src/images/Project4_k8s.png"
           deployLink="https://jackelam20.github.io/Rats-are-crazy/"
           githubLink="https://github.com/Jackelam20/Rats-are-crazy"
@@ -40,7 +40,7 @@ const Portfolio = () => {
 
          {/* Project 5 */}
          <ProjectCard
-          title="Project 5"
+          title="Project 5, group project"
           imageSrc="./src/images/Project5_k8s.png"
           deployLink="https://companion-planting-ecec108bfc1e.herokuapp.com/login/"
           githubLink="https://github.com/aceiln/GardnersSpot"
