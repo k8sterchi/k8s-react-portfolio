@@ -5,7 +5,7 @@ a single-page application portfolio for a web developer that uses React to rende
 
 [Repo on Github](https://github.com/k8sterchi/k8s-react-portfolio)
 
-[Deployed Site]()
+[Deployed Site](https://main--genuine-marzipan-f2e7f1.netlify.app/)
 
 ## Table of Contents
 - [User Story](#user-story)
