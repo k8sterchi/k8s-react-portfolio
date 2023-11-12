@@ -141,6 +141,10 @@ body {
   flex-direction: column;
 }
 
+.required-text {
+  color: hotpink;
+}
+
 .form-group {
   margin-bottom: 20px;
 }

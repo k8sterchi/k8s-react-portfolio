@@ -63,7 +63,14 @@ const Contact = () => {
       return;
     }
 
-    // Add your logic to handle form submission
+    // Validate email format
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    if (formData.email.trim() !== '' && !emailRegex.test(formData.email)) {
+      alert('Invalid email address');
+      return;
+    }
+
+    // logic to handle form submission
     console.log('Form submitted:', formData);
   };
 
@@ -95,6 +102,8 @@ const Contact = () => {
             value={formData.email}
             onChange={handleChange}
             onBlur={handleBlur}
+            pattern="^[^\s@]+@[^\s@]+\.[^\s@]+$"
+            title="Enter a valid email address"
             required
           />
           {requiredFields.email && <span className="required-text">Required</span>}
@@ -120,5 +129,6 @@ const Contact = () => {
 };
 
 export default Contact;
+
 
 
