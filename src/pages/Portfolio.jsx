@@ -18,32 +18,32 @@ const Portfolio = () => {
         <ProjectCard
           title="Project 2"
           imageSrc="./src/images/Project2_k8s.png"
-          deployLink="https://example.com/project2"
-          githubLink="https://github.com/yourusername/project2"
+          deployLink="https://k8sterchi.github.io/k8s-scheduler/"
+          githubLink="https://github.com/k8sterchi/k8s-scheduler"
         />
 
          {/* Project 3 */}
          <ProjectCard
           title="Project 3"
           imageSrc="./src/images/Project3_k8s.png"
-          deployLink="https://example.com/project3"
-          githubLink="https://github.com/yourusername/project3"
+          deployLink="https://k8sterchi.github.io/gener8r/"
+          githubLink="https://github.com/k8sterchi/gener8r"
         />
 
          {/* Project 4 */}
          <ProjectCard
           title="Project 4"
           imageSrc="./src/images/Project4_k8s.png"
-          deployLink="https://example.com/project4"
-          githubLink="https://github.com/yourusername/project4"
+          deployLink="https://jackelam20.github.io/Rats-are-crazy/"
+          githubLink="https://github.com/Jackelam20/Rats-are-crazy"
         />
 
          {/* Project 5 */}
          <ProjectCard
           title="Project 5"
           imageSrc="./src/images/Project5_k8s.png"
-          deployLink="https://example.com/project5"
-          githubLink="https://github.com/yourusername/project5"
+          deployLink="https://companion-planting-ecec108bfc1e.herokuapp.com/login/"
+          githubLink="https://github.com/aceiln/GardnersSpot"
         />
 
          {/* Project 6 */}

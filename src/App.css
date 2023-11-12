@@ -2,7 +2,10 @@
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
+ 
   text-align: center;
+  background-color: #1a1830; /* Medium gray background color */
+  color: #fff; 
 }
 
 /* Header  */
@@ -86,6 +89,8 @@
   width: 48%; /* Two columns for larger screens */
   margin-bottom: 1rem;
   overflow: hidden; /* Ensure the overflow is hidden */
+  border: 5px solid #0dff00;
+  box-sizing: border-box; /* Include border in width calculation */
 }
 
 .project-card img {
@@ -100,6 +105,26 @@
     width: 100%; /* One column for smaller screens */
   }
 }
+.project-links {
+  margin-top: 10px; /* Adjust spacing between links and image */
+}
+
+.project-links a {
+  display: inline-block;
+  padding: 10px 20px;
+  margin-right: 10px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #61dafb; /* GitHub color */
+  border-radius: 5px;
+  transition: background-color 0.3s ease; /* Smooth transition effect on hover */
+}
+
+.project-links a:hover {
+  background-color: #4285f4; /* Change color on hover */
+}
+
+
 /* Contact */
 
 .contact-container {
