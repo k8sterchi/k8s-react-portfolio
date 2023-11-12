@@ -3,6 +3,10 @@
 ## Description
 a single-page application portfolio for a web developer that uses React to render content.
 
+[Repo on Github](https://github.com/k8sterchi/k8s-react-portfolio)
+
+[Deployed Site]()
+
 ## Table of Contents
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
@@ -69,9 +73,8 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 
 ## Preview
-![preview of application](./path to image)
+![preview of application](/src/images/Project6_k8s.png)
 
-(this is just a placeholder image until i can get it working...)
 ## Resources
 Re-watching all the class material and borrowing code snipets from previous lessons. 
 
