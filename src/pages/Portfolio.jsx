@@ -38,24 +38,24 @@ const Portfolio = () => {
 
          {/* Project 4 */}
          <ProjectCard
-          title={project4Image}
-          imageSrc="./src/images/project4k8s.png"
+          title="Project 4"
+          imageSrc={project4Image}
           deployLink="https://jackelam20.github.io/Rats-are-crazy/"
           githubLink="https://github.com/Jackelam20/Rats-are-crazy"
         />
 
          {/* Project 5 */}
          <ProjectCard
-          title={project5Image}
-          imageSrc="./src/images/project5k8s.png"
+          title="Profile 5"
+          imageSrc={project5Image}
           deployLink="https://companion-planting-ecec108bfc1e.herokuapp.com/login/"
           githubLink="https://github.com/aceiln/GardnersSpot"
         />
 
          {/* Project 6 */}
          <ProjectCard
-          title={project6Image}
-          imageSrc="./src/images/project6k8s.png"
+          title="Profile 6"
+          imageSrc={project6Image}
           deployLink="https://boiling-anchorage-11027-d19406c04dfb.herokuapp.com/"
           githubLink="https://github.com/DanielTBonn/collectors-connect"
         />
