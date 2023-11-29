@@ -1,9 +1,10 @@
 import Avatar from '../components/Avatar';
+import profileImage from "../images/profilek8s.jpg"
 
 const About = () => {
   return (
     <div className="about-container">
-      <Avatar src="./src/profilek8s.jpg" alt="Profile Picture" />
+      <Avatar src={profileImage} alt="Profile Picture" />
       <div className="bio">
         <h2>Hi! My name is Kate.</h2>
         <p>
