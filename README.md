@@ -76,7 +76,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ![preview of application](/src/images/Project6_k8s.png)
 
 ## Resources
-Re-watching all the class material and borrowing code snipets from previous lessons. 
+Re-watching all the class material and borrowing code snipets from previous lessons. ..
 
 ## License
 ![License](https://img.shields.io/badge/License-MIT%20License-brightgreen)  
