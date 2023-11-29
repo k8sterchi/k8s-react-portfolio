@@ -9,7 +9,7 @@ const Portfolio = () => {
         {/* Project 1 */}
         <ProjectCard
           title="Project 1"
-          imageSrc="./src/images/projectk8s.png"
+          imageSrc="./src/images/project1k8s.png"
           deployLink="https://k8sterchi.github.io/K8-Portfolio/"
           githubLink="https://github.com/k8sterchi/K8-Portfolio"
         />
@@ -49,7 +49,7 @@ const Portfolio = () => {
          {/* Project 6 */}
          <ProjectCard
           title="Project 6, group project"
-          imageSrc="./src/images/project6k8.png"
+          imageSrc="./src/images/project6k8s.png"
           deployLink="https://boiling-anchorage-11027-d19406c04dfb.herokuapp.com/"
           githubLink="https://github.com/DanielTBonn/collectors-connect"
         />
