@@ -2,9 +2,9 @@ import ProjectCard from '../components/ProjectCard';
 import project1Image from "../images/project1k8s.png";
 import project2Image from "../images/project2k8s.png";
 import project3Image from "../images/project3k8s.png";
-import project4Image from "../images/project4k8s.png";
-import project5Image from "../images/project5k8s.png";
-import project6Image from "../images/project6k8s.png";
+import project4Image from "../images/project4k8.png";
+import project5Image from "../images/project5k8.png";
+import project6Image from "../images/project6k8.png";
 
 const Portfolio = () => {
   return (
