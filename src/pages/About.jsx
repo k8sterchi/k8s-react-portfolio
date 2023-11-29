@@ -3,7 +3,7 @@ import Avatar from '../components/Avatar';
 const About = () => {
   return (
     <div className="about-container">
-      <Avatar src="./src/images/Profile_k8s.jpg" alt="Profile Picture" />
+      <Avatar src="./src/documents/images/Profile_k8s.jpg" alt="Profile Picture" />
       <div className="bio">
         <h2>Hi! My name is Kate.</h2>
         <p>

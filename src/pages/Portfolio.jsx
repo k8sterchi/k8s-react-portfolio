@@ -9,7 +9,7 @@ const Portfolio = () => {
         {/* Project 1 */}
         <ProjectCard
           title="Project 1"
-          imageSrc="./src/images/Project1_k8s.png"
+          imageSrc="./src/documents/images/Project1_k8s.png"
           deployLink="https://k8sterchi.github.io/K8-Portfolio/"
           githubLink="https://github.com/k8sterchi/K8-Portfolio"
         />
@@ -17,7 +17,7 @@ const Portfolio = () => {
         {/* Project 2 */}
         <ProjectCard
           title="Project 2"
-          imageSrc="./src/images/Project2_k8s.png"
+          imageSrc="./src/documents/images/Project2_k8s.png"
           deployLink="https://k8sterchi.github.io/k8s-scheduler/"
           githubLink="https://github.com/k8sterchi/k8s-scheduler"
         />
@@ -25,7 +25,7 @@ const Portfolio = () => {
          {/* Project 3 */}
          <ProjectCard
           title="Project 3"
-          imageSrc="./src/images/Project3_k8s.png"
+          imageSrc="./src/documents/images/Project3_k8s.png"
           deployLink="https://k8sterchi.github.io/gener8r/"
           githubLink="https://github.com/k8sterchi/gener8r"
         />
@@ -33,7 +33,7 @@ const Portfolio = () => {
          {/* Project 4 */}
          <ProjectCard
           title="Project 4, group project"
-          imageSrc="./src/images/Project4_k8s.png"
+          imageSrc="./src/documents/images/Project4_k8s.png"
           deployLink="https://jackelam20.github.io/Rats-are-crazy/"
           githubLink="https://github.com/Jackelam20/Rats-are-crazy"
         />
@@ -41,7 +41,7 @@ const Portfolio = () => {
          {/* Project 5 */}
          <ProjectCard
           title="Project 5, group project"
-          imageSrc="./src/images/Project5_k8s.png"
+          imageSrc="./src/documents/images/Project5_k8s.png"
           deployLink="https://companion-planting-ecec108bfc1e.herokuapp.com/login/"
           githubLink="https://github.com/aceiln/GardnersSpot"
         />
@@ -49,7 +49,7 @@ const Portfolio = () => {
          {/* Project 6 */}
          <ProjectCard
           title="Project 6, group project"
-          imageSrc="./src/images/Project6_k8.png"
+          imageSrc="./src/documents/images/Project6_k8.png"
           deployLink="https://boiling-anchorage-11027-d19406c04dfb.herokuapp.com/"
           githubLink="https://github.com/DanielTBonn/collectors-connect"
         />
