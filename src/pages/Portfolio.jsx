@@ -48,10 +48,10 @@ const Portfolio = () => {
 
          {/* Project 6 */}
          <ProjectCard
-          title="Project 6"
-          imageSrc="./src/images/Project6_k8s.png"
-          deployLink="https://example.com/project6"
-          githubLink="https://github.com/yourusername/project6"
+          title="Project 6, group project"
+          imageSrc="./src/images/Project6_k8.png"
+          deployLink="https://boiling-anchorage-11027-d19406c04dfb.herokuapp.com/"
+          githubLink="https://github.com/DanielTBonn/collectors-connect"
         />
       </div>
     </div>
