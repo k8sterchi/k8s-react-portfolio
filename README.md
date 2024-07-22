@@ -73,7 +73,7 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 
 ## Preview
-![preview of application](/src/images/Project6_k8s.png)
+![preview of application](/src/images/k8spreviewportfolio.jpg)
 
 ## Resources
 Re-watching all the class material and borrowing code snipets from previous lessons. ..
